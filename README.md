@@ -147,5 +147,6 @@ We welcome:
 ## 📬 Contact
 Safeway Guardian Labs  
 Japan  
+safewayguardian@gmail.com
 
 
