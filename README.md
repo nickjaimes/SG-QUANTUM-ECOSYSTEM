@@ -1,3 +1,6 @@
+Maintainer: Nicolas E. Santiago (Founder & Lead Architect)
+Contact: safewayguardian@gmail.com
+
 /SAFEWAY-GUARDIAN-ECOSYSTEM
 │
 ├── SG-QUANTUM-OS
@@ -144,9 +147,12 @@ We welcome:
 
 ---
 
-## 📬 Contact
+📬 Contact  
 Safeway Guardian Labs  
-Japan  
-safewayguardian@gmail.com
+Saitama, Japan  
+
+📧 Email: safewayguardian@gmail.com  
+🌐 Website: (coming soon)  
+🤝 Partnerships & Collaboration: Open to GovTech, Enterprise, & Research
 
 
